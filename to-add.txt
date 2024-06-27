@@ -1,2 +1,6 @@
 Two Profile photos
 resumé cv
+two project pictures {
+    Finance tracker
+    Algorihtm visualizer
+}
