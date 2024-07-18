@@ -18,14 +18,12 @@ p {
 }
 
 
-a,
-.btn {
+a, .btn {
   transition: all 300ms ease;
 }
 
 /* navigator */
-nav,
-.nav-links {
+nav, .nav-links {
   display: flex;
 }
 
@@ -132,14 +130,7 @@ a:hover {
   
 .hamburger-icon span:first-child {
     transform: none;
-}
-  
-.hamburger-icon span:first-child {
     opacity: 1;
-}
-  
-.hamburger-icon span:first-child {
-    transform: none;
 }
 
 /* sections */
@@ -379,7 +370,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
-  }
+}
   
 .contact-info-upper-container {
     display: flex;
